@@ -83,7 +83,7 @@ Após a execução, basta acessar a documentação http://localhost:3000/
 
 IMPORTANTE: Não feche o terminal com a execução do Serverest enquanto estiver usando.
 
-#### Para executar em moodo Headlesss, via console
+#### Para executar em modo Headlesss, via console
 ```
 npx cypress run
 ```
